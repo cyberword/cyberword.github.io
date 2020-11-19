@@ -8,10 +8,10 @@
     <lastBuildDate>Thu, 19 Nov 2020 20:11:38 +0800</lastBuildDate><atom:link href="https://cyberword.github.io/tags/netty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netty4源码解读 EventLoop篇</title>
-      <link>https://cyberword.github.io/post/netty4%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB-eventloop%E7%AF%87/</link>
+      <link>https://cyberword.github.io/post/netty4-eventloop/</link>
       <pubDate>Thu, 19 Nov 2020 20:11:38 +0800</pubDate>
       
-      <guid>https://cyberword.github.io/post/netty4%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB-eventloop%E7%AF%87/</guid>
+      <guid>https://cyberword.github.io/post/netty4-eventloop/</guid>
       <description>EventLoop是Netty Server用于处理IO事件的事件轮询处理器，职责上类似于Redis的eventLoop，EventLoop通常是由EventLoopGroup来管理的，EventLoopGroup负责调度指派EventLoop，而EventLoop负责具体的执行。
 先看一下常用的NioEventLoopGroup结构关系图 继承关系： 方法图： 顺着关系图，先从各组件的基础功能说起。
 EventExecutorGroup 自身提供shutdownGracefully执行器优雅关闭得接口
