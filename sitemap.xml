@@ -8,7 +8,17 @@
   </url>
   
   <url>
-    <loc>https://cyberword.github.io/post/Netty4%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB-EventLoop%E7%AF%87/</loc>
+    <loc>https://cyberword.github.io/tags/java/</loc>
+    <lastmod>2020-11-19T20:11:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberword.github.io/tags/netty/</loc>
+    <lastmod>2020-11-19T20:11:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberword.github.io/post/netty4%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB-eventloop%E7%AF%87/</loc>
     <lastmod>2020-11-19T20:11:38+08:00</lastmod>
   </url>
   
@@ -18,11 +28,12 @@
   </url>
   
   <url>
-    <loc>https://cyberword.github.io/categories/</loc>
+    <loc>https://cyberword.github.io/tags/</loc>
+    <lastmod>2020-11-19T20:11:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cyberword.github.io/tags/</loc>
+    <loc>https://cyberword.github.io/categories/</loc>
   </url>
   
 </urlset>

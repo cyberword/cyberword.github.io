@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cyberword.github.io/sitemap.xml
